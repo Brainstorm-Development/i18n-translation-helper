@@ -14,3 +14,7 @@ All notable changes to this project will be documented in this file.
 ## [1.0.1] - 2024-12-17
 ### Added
 - Added public Github repository link
+
+## [1.0.1] - 2024-12-17
+### Added
+- Fixed project link
